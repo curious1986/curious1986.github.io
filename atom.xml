@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://curious1986.github.io</id>
+    <title>HQ-Blog</title>
+    <updated>2022-12-27T04:26:32.707Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://curious1986.github.io"/>
+    <link rel="self" href="https://curious1986.github.io/atom.xml"/>
+    <subtitle>学无止境</subtitle>
+    <logo>https://curious1986.github.io/images/avatar.png</logo>
+    <icon>https://curious1986.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, HQ-Blog</rights>
+</feed>
